@@ -25,7 +25,7 @@
 <img src="https://github.com/KUSITMS-HDmedi-A/.github/assets/86800087/2fb5baa8-d949-4a7f-83fd-6255055b7640" align=center width=400>
 
 
-<br>
+<br></br>
 
 ### 🙌 Contributors
 
