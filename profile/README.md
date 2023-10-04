@@ -1,4 +1,4 @@
-# 아이약 <img src="https://github.com/KUSITMS-HDmedi-A/.github/assets/86800087/0787a29a-f683-4b9d-a0bc-fcde01e7be73" align=left width=100>
+# [아이약](https://www.newswire.co.kr/newsRead.php?no=975543) <img src="https://github.com/KUSITMS-HDmedi-A/.github/assets/86800087/0787a29a-f683-4b9d-a0bc-fcde01e7be73" align=left width=100>
 > 우리 가족 약관리, 원스톱 솔루션 아이약 💊
 
 
