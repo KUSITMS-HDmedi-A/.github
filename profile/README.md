@@ -11,6 +11,7 @@
 
 ![image](https://github.com/KUSITMS-HDmedi-A/.github/assets/86800087/b4882da0-8899-415d-bc4a-c46703275d2e)
 
+
 <br>
 
 ### 📍 Features
@@ -22,8 +23,17 @@
 
 ### 🎞️ Demo Video
 
+<div align="center">
 <img src="https://github.com/KUSITMS-HDmedi-A/.github/assets/86800087/2fb5baa8-d949-4a7f-83fd-6255055b7640" align=center width=400>
+</div>
 
+<br>
+
+### 🏅 Award
+
+<div align="center">
+<img width="1000" alt="image" src="https://github.com/KUSITMS-HDmedi-A/.github/assets/86800087/c453d37f-0a24-4311-839c-8d3508aaa38e">
+</div>
 
 <br></br>
 
